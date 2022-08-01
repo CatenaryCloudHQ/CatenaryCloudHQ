@@ -8,7 +8,9 @@ Our mission is to build confidence in the public cloud for engineering teams and
 
  - **AWS CDK workshops**.
 
-If you a software development engineer or cloud practitioner interested in managing cloud services using a programming language rather than obscure configuration files? This workshop will prepare and teach you to compose, test, deploy and manage cloud services in a familiar programming language. AWS CDK enables developers to move with extreme velocity and build new API and cloud-native services within hours.
+Are you a software development engineer or cloud practitioner interested in managing cloud services using a programming language? Tired of obscure configuration files scattered all over application repositories?
+
+This workshop will prepare and teach you to compose, unit test, deploy and manage cloud services in a familiar programming language. AWS CDK enables developers to move with extreme velocity and build new API and cloud-native services within hours.
 
 Packages:
 
