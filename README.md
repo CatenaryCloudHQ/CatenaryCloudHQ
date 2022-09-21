@@ -1,7 +1,10 @@
 <div align="center">
-    <h2>Catenary Cloud technical consultancy</h2>
+    <img src="https://user-images.githubusercontent.com/98995787/191385263-9c6826db-f623-4d96-996f-e4bb9d801559.png" alt="Catenary Cloud logo" style="width:100px;"/>
+  <h2>Catenary Cloud technical consultancy</h2>
+  </br>
 </div>
 
+ 
 Our mission is to build confidence in the public cloud for engineering teams and organizations.
 
 **Services**
